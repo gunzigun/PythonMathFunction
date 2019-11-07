@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "D:\\Miniconda3\\envs\\xgl\\python.exe",
+    "python.autoComplete.extraPaths":
+    [
+        "D:\\Miniconda3\\envs\\xgl\\lib\\site-packages\\tensorflow",
+        "D:\\Miniconda3\\envs\\xgl\\lib\\site-packages\\tensorflow\\python\\estimator\\api",
+        "D:\\Miniconda3\\envs\\xgl\\lib\\site-packages\\tensorflow\\_api\\v1"
+    ],
+    "python.autoComplete.addBrackets": true,
+}
